@@ -203,3 +203,7 @@ body {
 .template-header .logo img {
   width: auto;
 }
+
+#yotpo-reviews-tab .yotpo-headline {
+  align-self: center;
+}
