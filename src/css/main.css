@@ -199,3 +199,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 /*# sourceMappingURL=main.css.map */
+
+.template-header .logo img {
+  width: auto;
+}
