@@ -207,3 +207,7 @@ body {
 #yotpo-reviews-tab .yotpo-headline {
   align-self: center;
 }
+
+#yotpo-reviews-seo-page .yotpo-reviews-seo-pagination-item.yotpo-pagination-number {
+  height: auto;
+}
